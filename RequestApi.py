@@ -112,7 +112,7 @@ def delete_request(user_id):
 #Calling Requests:-
 
 get_request() #To Do the Get Request
-#post_request() #To Do the Post Request In Users
+post_request() #To Do the Post Request In Users
 user_id = post_request()  #To store the User id of Post Request
 put_request(user_id)   #To update the User by given User ID
 delete_request(user_id) # To Delete the User of given User ID
