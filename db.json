@@ -1,34 +1,42 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "Kedar",
-      "city": "FanCode",
-      "email": "kedarnaik@fancode.com",
-      "tasks_completed": 3,
-      "total_tasks": 5,
-      "latitude": -20,
-      "longitude": 60
-    },
-    {
-      "id": 2,
-      "name": "Priyanka",
-      "city": "FanCode",
-      "email": "priyankanaik@fancode.com",
-      "tasks_completed": 6,
-      "total_tasks": 8,
-      "latitude": -30,
-      "longitude": 50
-    },
-    {
-      "id": 3,
-      "name": "Shubhang",
-      "city": "Dream11",
-      "email": "Shubhangnaik@fancode.com",
-      "tasks_completed": 2,
-      "total_tasks": 10,
-      "latitude": -50,
-      "longitude": 50
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Kedar",
+    "city": "FanCode",
+    "email": "kedar@fancode.com",
+    "tasks_completed": 3,
+    "total_tasks": 5,
+    "latitude": -20,
+    "longitude": 60
+  },
+  {
+    "id": 2,
+    "name": "Priyanka",
+    "city": "FanCode",
+    "email": "priyanka@fancode.com",
+    "tasks_completed": 6,
+    "total_tasks": 8,
+    "latitude": -30,
+    "longitude": 50
+  },
+  {
+    "id": 3,
+    "name": "Shubhang",
+    "city": "Dream11",
+    "email": "Shubhang@fancode.com",
+    "tasks_completed": 2,
+    "total_tasks": 10,
+    "latitude": -50,
+    "longitude": 50
+  },
+  {
+    "id": 4,
+    "name": "Ravi",
+    "city": "Dream11",
+    "email": "ravi@fancode.com",
+    "tasks_completed": 4,
+    "total_tasks": 10,
+    "latitude": -50,
+    "longitude": 60
+  }
+]
